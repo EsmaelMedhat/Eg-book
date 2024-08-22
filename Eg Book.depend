@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1719630715 source:e:\cs_50\new folder\eg book\main.cpp
+	<iostream>
+	<SportsEvent.h>
+	<NormalTicket.h>
+	<Ticket.h>
+	<FootBallMatchTicket.h>
+
+1719629683 source:e:\cs_50\new folder\eg book\src\ticket.cpp
+	<cstring>
+	"Ticket.h"
+	<iostream>
+	<random>
+	"extension.h"
+
+1719629592 e:\cs_50\new folder\eg book\include\ticket.h
+	<iostream>
+
+1719394632 source:e:\cs_50\new folder\eg book\src\discountedticket.cpp
+	"DiscountedTicket.h"
+
+1719394632 e:\cs_50\new folder\eg book\include\discountedticket.h
+	<Ticket.h>
+
+1719394533 e:\cs_50\new folder\eg book\include\normalticket.h
+	<Ticket.h>
+
+1719394533 source:e:\cs_50\new folder\eg book\src\normalticket.cpp
+	"NormalTicket.h"
+
+1724337603 source:e:\cs_50\new folder\eg book\src\event.cpp
+	"Event.h"
+	<cstring>
+	<ValidateEvent.h>
+
+1719628996 e:\cs_50\new folder\eg book\include\event.h
+	<iostream>
+	<Ticket.h>
+
+1719544374 source:e:\cs_50\new folder\eg book\src\user.cpp
+	"User.h"
+	<Ticket.h>
+
+1719394872 e:\cs_50\new folder\eg book\include\user.h
+	<string>
+	<vector>
+	<Ticket.h>
+
+1719631148 source:e:\cs_50\new folder\eg book\src\sportsevent.cpp
+	"SportsEvent.h"
+	<iostream>
+	"SportsTicket.h"
+	"Event.h"
+
+1719630264 e:\cs_50\new folder\eg book\include\sportsevent.h
+	<string>
+	<Event.h>
+	<ValidateEvent.h>
+	"SportsTicket.h"
+
+1719305900 source:e:\cs_50\new folder\eg book\extension.cpp
+	"extension.h"
+	<string>
+	<cstring>
+
+1719305859 e:\cs_50\new folder\eg book\extension.h
+	<string>
+
+1719305859 e:\cs_50\new folder\eg book\include\extension.h
+	<string>
+
+1719605694 source:e:\cs_50\new folder\eg book\src\sportsticket.cpp
+	"SportsTicket.h"
+
+1719624627 e:\cs_50\new folder\eg book\include\sportsticket.h
+	<Ticket.h>
+
+1719605419 e:\cs_50\new folder\eg book\include\ticket_extension.h
+
+1719544366 source:e:\cs_50\new folder\eg book\src\ticket_extension.cpp
+	"Ticket_Extension.h"
+
+1719550743 source:e:\cs_50\new folder\eg book\src\validateevent.cpp
+	"ValidateEvent.h"
+	<ctime>
+	<sstream>
+	<iomanip>
+
+1719550743 e:\cs_50\new folder\eg book\include\validateevent.h
+	<string>
+
+1719629673 source:e:\cs_50\new folder\eg book\src\footballmatchticket.cpp
+	"FootBallMatchTicket.h"
+
+1719624490 e:\cs_50\new folder\eg book\include\footballmatchticket.h
+	<SportsTicket.h>
+
